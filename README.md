@@ -1,3 +1,19 @@
+## Project Overview
+
+This project is a responsive website built using React.js. The website includes the following sections:
+
+- **Home**: The landing page with an overview of the website.
+- **About Us**: Information about the website.
+- **Features**: Highlights of the key features offered.
+- **Contact**: A section for users to get in touch.
+
+## Deployment
+
+The website has been deployed and can be accessed at the following link:
+
+[https://insu-creation.web.app/](https://insu-creation.web.app/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -45,20 +61,6 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-## Project Overview
-
-This project is a responsive website built using React.js. The website includes the following sections:
-
-- **Home**: The landing page with an overview of the website.
-- **About Us**: Information about the website.
-- **Features**: Highlights of the key features offered.
-- **Contact**: A section for users to get in touch.
-
-## Deployment
-
-The website has been deployed and can be accessed at the following link:
-
-[https://insu-creation.web.app/](https://insu-creation.web.app/)
 
 ## Additional Resources
 
