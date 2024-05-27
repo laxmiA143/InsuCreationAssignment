@@ -1,6 +1,6 @@
 import Nav from "../Nav";
-import Reviews from "../../components/Reviews";
-import Footer from "../../components/Footer";
+import Reviews from "../StudentReviews";
+import Footer from "../Footer";
 
 const CommonLayout = ({ children }) => (
   <div className="common-layout-container">

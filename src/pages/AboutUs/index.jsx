@@ -1,5 +1,5 @@
 import CommonLayout from "../../components/CommonLayout";
-import Banner from "../../components/Banner";
+import Banner from "../../components/TopBanner";
 
 import "./index.css";
 

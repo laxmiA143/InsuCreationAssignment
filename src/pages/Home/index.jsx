@@ -1,6 +1,6 @@
 import CommonLayout from "../../components/CommonLayout";
 
-import AppScreenshots from "../../components/AppScreenshots";
+import AppScreenshots from "../../components/AppScreenshotImages";
 import HowAppWork from "../../components/HowAppWork";
 import DesignedBy from "../../components/DesignedBy";
 
